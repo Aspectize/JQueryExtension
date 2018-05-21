@@ -3,6 +3,13 @@ Aspectize Extension to misc JQuery plugin: JQueryMask, JQueryColorPicker, JQuery
 
 JQueryAutoComplete from this extension is obsolete. Use specific Extension JQueryAutoComplete instead.
 
+## 1 - Download
+
+Download extension package from aspectize.com:
+- in the portal, goto extension section
+- browse extension, and find JQueryExtension
+- download package and unzip it into your local WebHost Applications directory; you should have a JQueryExtension directory next to your app directory.
+
 ## 2 - Configuration
 
 Add JQueryExtension as Shared Application in your application configuration file.
